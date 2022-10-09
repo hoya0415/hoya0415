@@ -1,4 +1,4 @@
-### 🐯 Occupation
+# 🐯 Occupation
 
 💛 **Frontend Developer**
  
