@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🙊 History
+# 🙊 History
 
 **2017**
 - - - 
@@ -44,7 +44,7 @@
 
 <br/>
 
-### ⚒ Tech Stack 
+# ⚒ Tech Stack 
 - ###### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=ffffff"/>    
 
@@ -63,6 +63,6 @@
 
 <br/>
 
-## 🐸 Problem-solving Skill
+# 🐸 Problem-solving Skill
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enfnql)](https://solved.ac/enfnql)
