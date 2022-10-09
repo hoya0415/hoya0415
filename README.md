@@ -1,3 +1,43 @@
+
+🖥 **Frontend Developer**
+🖌 **UI/UX Designer**
+🖍 **Graphic Designer**
+🎥 **Cinematographer**
+
+<hr>
+
+2017
+- - - 
+- 용인대학교 영화영상학과 졸업
+
+2018
+- - - 
+- (주) 엠셀 | 2018.02 ~ 2021.01
+
+2019
+- - - 
+- GTQ그래픽기술자격 2급
+- X1 조승연 굿즈 제작/판매 및 수익금(1000만 원 상당) 기부
+
+2021
+- - - 
+- 삼성청년SW아카데미(SSAFY) | 2021.07 ~ 2022.05
+- 평점 기반 커뮤니티 서비스 [MBTI is Science] 프로젝트
+	- 관통 프로젝트 경진대회 | 우수상(구미 3반 2등)
+
+2022
+- - -
+- 실시간 영상 스트리밍 및 채팅 SNS [덕친소] 프로젝트
+- K-POP 아티스트 맛집 해시태그 기반 빅데이터 맛집 추천 서비스 [K-Chelin] 프로젝트
+	- 특화 프로젝트 UCC 경진대회 | 입상(전체 5등)
+- 앨범 거래 및 나무 심기를 통한 환경보호 메타버스 플랫폼 [지구방위대] 프로젝트
+	- 자율 프로젝트 경진대회 | 우수상(구미 2반 2등)
+	- 자율 프로젝트 UCC 경진대회 | 우수상(전체 3등)
+
+
+<hr>
+
+
 ## <div align="center"> ⚒ Tech Stack ⚒</div>
 
 <div align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=ffffff"/> </div>
