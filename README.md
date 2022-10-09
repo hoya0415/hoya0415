@@ -6,6 +6,7 @@
 
 💙 **Cinematographer**
 
+<br/>
 
 ### 🙊 History
 
@@ -41,7 +42,7 @@
 	- 자율 프로젝트 경진대회 | 우수상(구미 2반 2등)
 	- 자율 프로젝트 UCC 경진대회 | 우수상(전체 3등)
 
-
+<br/>
 
 ### ⚒ Tech Stack 
 - ###### Language
@@ -60,7 +61,8 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=000000"/> <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=WebGL&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=ffffff"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FinalCutXPro-FF0000?style=flat&logo=Shotcut&logoColor=ffffff"/> 
 
+<br/>
 
-### 🐸 Problem-solving Skill
+## 🐸 Problem-solving Skill
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enfnql)](https://solved.ac/enfnql)
