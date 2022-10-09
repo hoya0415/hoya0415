@@ -1,10 +1,10 @@
 # 🐯 Occupation
 
-💛 **Frontend Developer**
+#### **Frontend Developer**
  
-💜 **Graphic Designer**
+#### **Graphic Designer**
 
-💙 **Cinematographer**
+#### **Cinematographer**
 
 <br/>
 
