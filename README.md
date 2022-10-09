@@ -1,7 +1,10 @@
 
 🖥 **Frontend Developer**   
+   
 🖌 **UI/UX Designer**   
+   
 🖍 **Graphic Designer**   
+   
 🎥 **Cinematographer**   
 
    
