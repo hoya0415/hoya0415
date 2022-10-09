@@ -1,10 +1,10 @@
 
-🖥 **Frontend Developer**
-🖌 **UI/UX Designer**
-🖍 **Graphic Designer**
-🎥 **Cinematographer**
+🖥 **Frontend Developer**   
+🖌 **UI/UX Designer**   
+🖍 **Graphic Designer**   
+🎥 **Cinematographer**   
 
-<hr>
+
 
 2017
 - - - 
