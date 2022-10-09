@@ -1,4 +1,4 @@
-## <center> ⚒ Tech Stack ⚒</center>
+## <div align="center">⚒ Tech Stack ⚒</div> 
 
 <center><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=ffffff"/> </center>
 <center><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=ffffff"/></center>
