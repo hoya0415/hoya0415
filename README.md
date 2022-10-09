@@ -7,6 +7,6 @@
 <div align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=000000"/> <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=WebGL&logoColor=ffffff"/></div>
 <div align="center"><img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=ffffff"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FinalCutXPro-FF0000?style=flat&logo=Shotcut&logoColor=ffffff"/> </div>
 
-
+<hr>
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enfnql)](https://solved.ac/enfnql)
