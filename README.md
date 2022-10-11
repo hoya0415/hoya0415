@@ -45,6 +45,9 @@
 <br/>
 
 # ⚒ Tech Stack 
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoya0415&layout=compact)](https://github.com/hoya0415/github-readme-stats)
+
 ###### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=ffffff"/>    
 
@@ -68,4 +71,3 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enfnql)](https://solved.ac/enfnql)
    
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoya0415&layout=compact)](https://github.com/hoya0415/github-readme-stats)
