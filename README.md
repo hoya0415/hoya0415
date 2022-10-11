@@ -66,3 +66,5 @@
 # 🐸 Problem-solving Skill
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enfnql)](https://solved.ac/enfnql)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoya0415)](https://github.com/hoya0415/github-readme-stats)
